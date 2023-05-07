@@ -163,7 +163,7 @@ namespace ConsoleATM
                     else if (option == 4)
                     {
                         break;
-                        ;
+                        
                     }
                     else
                     {
